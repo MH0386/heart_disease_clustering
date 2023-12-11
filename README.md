@@ -1,6 +1,6 @@
 # Facial Emotions Clustering
 
-Facial Emotion Detection with Fuzzy C-Means Algorithm. For details.
+Facial Emotion Detection with Fuzzy C-Means Algorithm.
 
 ### Team Members
 * [Mohamed Hisham](https://github.com/MH0386)
