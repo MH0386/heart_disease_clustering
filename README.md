@@ -1,6 +1,6 @@
-# Facial Emotions Clustering
+# Heart Disease Clustering
 
-Facial Emotion Detection with Fuzzy C-Means Algorithm.
+Heart Disease Clustering with Fuzzy C-Means Algorithm.
 
 ### Team Members
 * [Mohamed Hisham](https://github.com/MH0386)
