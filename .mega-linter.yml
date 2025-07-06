@@ -13,7 +13,6 @@ APPLY_FIXES: all
 # If you use ENABLE_LINTERS variable, all other linters will be disabled by
 # default
 # ENABLE_LINTERS:
-
 DISABLE:
   # - COPYPASTE # Uncomment to disable checks of excessive copy-pastes
   - SPELL # Comment to enable checks of spelling mistakes
@@ -22,3 +21,5 @@ SHOW_ELAPSED_TIME: true
 
 # Uncomment if you want MegaLinter to detect errors but not block CI to pass
 # DISABLE_ERRORS: true
+
+GITHUB_STATUS_REPORTER: true
